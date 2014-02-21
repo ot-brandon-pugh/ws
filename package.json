@@ -40,6 +40,5 @@
     "scripts": {
       "ws/index.js": "./lib/browser.js"
     }
-  },
-  "gypfile": true
+  }
 }
